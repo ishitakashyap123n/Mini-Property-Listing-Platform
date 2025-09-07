@@ -1,0 +1,5 @@
+PORT=5000
+MONGODB_URI=your_mongodb_atlas_connection_string
+JWT_SECRET=a_very_secret_jwt_key
+ADMIN_EMAIL=admin@test.com
+ADMIN_PASSWORD=admin123
